@@ -31,6 +31,6 @@ LightSim: A Flexible, Fast Modeling Framework for Holistic Photonic Computing Sy
 
 https://dl.acm.org/doi/pdf/10.1145/3818624
 
-
+## Memes
 
 <img width="576" height="434" alt="image" src="https://github.com/user-attachments/assets/ef1649af-e0ce-4cb7-a96b-4b0405dd0bad" />
