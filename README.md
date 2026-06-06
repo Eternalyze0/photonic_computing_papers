@@ -1,4 +1,5 @@
-# photonic_computing_papers
+# Photonic Computing Papers
+
 A collection of photonic computing papers and books.
 
 ## 2018
