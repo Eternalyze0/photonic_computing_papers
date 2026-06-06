@@ -1,6 +1,18 @@
 # photonic_computing_papers
 A collection of photonic computing papers and books.
 
+## 2018
+
+Fundamentals of Optical Computing Technology: Forward the Next Generation Supercomputer
+
+https://www.amazon.ca/Fundamentals-Optical-Computing-Technology-Supercomputer-ebook/dp/B07D1JKTGS/
+
+## 2021
+
+Silicon Photonics for High-Performance Computing and Beyond
+
+https://www.amazon.com/Silicon-Photonics-High-Performance-Computing-Beyond/dp/0367262142/
+
 ## 2023
 
 Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator
