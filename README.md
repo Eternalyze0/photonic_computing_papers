@@ -1,6 +1,6 @@
 # Photonic Computing Papers
 
-A collection of photonic computing papers and books.
+A collection of photonic computing papers and books, especially those related supercomputing and AI.
 
 ## 2018
 
